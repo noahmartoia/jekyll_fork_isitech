@@ -1,5 +1,7 @@
+
 hello world
 salut je suis le modif de la branch fix/bug
+message pour conflit
 
 ## Philosophy
 
